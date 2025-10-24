@@ -5,6 +5,16 @@
 </p>
 
 ---
+### 🖼️ Screenshots
+
+| Login Screen | Dashboard | Chat Screen |
+|--------------|-----------|-------------|
+| ![Login](screenshots/image1.png) | ![Dashboard](screenshots/image2.png) | ![Chat](screenshots/image3.png) |
+
+| Data Source | Settings | Profile |
+|------------|---------|---------|
+| ![DataSource](screenshots/image4.png) | ![Settings](screenshots/image5.png)  |
+
 
 ### 🌍 Overview
 
@@ -63,6 +73,11 @@ It supports **Azure AD authentication**, **real-time chat**, and **integration w
 
 
 ---
+### 🖼️ Screenshots
+
+| Login Screen | Dashboard | Transaction History |
+|--------------|-----------|--------------------|
+| ![Login](screenshots/image1.png) | ![Dashboard](screenshots/dashboard.png) | ![Transactions](screenshots/transactions.png) |
 
 
 
