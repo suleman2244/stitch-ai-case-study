@@ -9,11 +9,11 @@
 
 | Login Screen | Dashboard | Chat Screen |
 |--------------|-----------|-------------|
-| ![Login](screenshots/image1.png) | ![Dashboard](screenshots/image2.png) | ![Chat](screenshots/image3.png) |
+| ![SignUp](screenshots/image1.png) | ![Chat Screen Dark Theme](screenshots/image2.png) | ![Chat Screen White Theme](screenshots/image3.png) |
 
 | Data Source | Settings | Profile |
 |------------|---------|---------|
-| ![DataSource](screenshots/image4.png) | ![Settings](screenshots/image5.png)  |
+| ![Authentication Flow](screenshots/image4.png) | 
 
 
 ### 🌍 Overview
