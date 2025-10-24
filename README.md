@@ -62,10 +62,5 @@ It supports **Azure AD authentication**, **real-time chat**, and **integration w
 
 ---
 
-### 🧪 Environment Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/stitch-ai.git
-   cd stitch-ai
 
