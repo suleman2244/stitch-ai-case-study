@@ -73,11 +73,7 @@ It supports **Azure AD authentication**, **real-time chat**, and **integration w
 
 
 ---
-### 🖼️ Screenshots
 
-| Login Screen | Dashboard | Transaction History |
-|--------------|-----------|--------------------|
-| ![Login](screenshots/image1.png) | ![Dashboard](screenshots/dashboard.png) | ![Transactions](screenshots/transactions.png) |
 
 
 
