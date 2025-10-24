@@ -60,6 +60,8 @@ It supports **Azure AD authentication**, **real-time chat**, and **integration w
 - Conducted **performance profiling** and **UI responsiveness improvements**.
 - Integrated **Dio** for robust and scalable API handling.
 
+
+
 ---
 
 
